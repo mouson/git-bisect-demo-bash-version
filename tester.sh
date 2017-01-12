@@ -1,3 +1,3 @@
-echo 'good';
-exit 0;
+echo 'bad';
+exit 1;
 
